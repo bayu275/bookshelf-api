@@ -1,6 +1,6 @@
 # Bookshelf API
 
-Bookshelf API is a project for storing book data in a library. This project is built using [Node.js](https://nodejs.org/) and [Hapi.js](https://hapi.dev/) for the backend.
+Bookshelf API is a project for storing book data in a library. This project is the final submission for the "Belajar Membuat Aplikasi Back-End untuk Pemula" course on [dicoding.com](https://www.dicoding.com/), built using [Node.js](https://nodejs.org/) and [Hapi.js](https://hapi.dev/) for the backend.
 
 ## Features
 
@@ -48,7 +48,7 @@ Before getting started, make sure your system has:
    yarn start
    ```
 
-   The application will run at `http://localhost:9000`.
+   The application will run at `http://localhost:3000`.
 
 ## Endpoints
 
